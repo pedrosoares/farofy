@@ -1,3 +1,5 @@
+import '@babel/polyfill';
+
 Array.prototype.asyncMap = async function (func) {
     const nArray = [];
     const array = this;

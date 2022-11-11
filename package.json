@@ -11,6 +11,6 @@
   "author": "Pedro Soares",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^8.3.2"
+    "mocha": "^10.1.0"
   }
 }
